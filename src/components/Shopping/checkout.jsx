@@ -113,6 +113,7 @@ const Checkout = () => {
     }
     alert("Thank you for your purchase! Your order is confirmed!");
     setIsPaymentCompleted(true);
+    navigate("/products");
   };
 
   const paymentMethods = [
