@@ -1,9 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { useCart } from "../../context/CartContext";
 
 const Checkout = () => {
   const navigate = useNavigate();
   const closeModal = () => navigate("/products");
+  const { clearCart } = useCart();
 
   const phoneInputRef = useRef(null);
   const [currentStep, setCurrentStep] = useState("mobile");
@@ -113,6 +115,7 @@ const Checkout = () => {
     }
     alert("Thank you for your purchase! Your order is confirmed!");
     setIsPaymentCompleted(true);
+    clearCart();
     navigate("/products");
   };
 

@@ -80,6 +80,10 @@ export const CartProvider = ({ children }) => {
     setIsSidebarOpen((prev) => !prev);
   };
 
+  const clearCart = () => {
+    setCart([]);
+  };
+
   return (
     <CartContext.Provider
       value={{
@@ -90,6 +94,7 @@ export const CartProvider = ({ children }) => {
         totalCartItems,
         isSidebarOpen,
         toggleSidebar,
+        clearCart,
       }}
     >
       {message && (
