@@ -1,0 +1,134 @@
+[
+  {
+    "_id": 1,
+    "name": "Streetwear Hoodie",
+    "image": "/products/m1.jpg",
+    "price": 2500,
+    "gender": "men",
+    "description": "Premium quality streetwear hoodie with modern urban design. Made from comfortable, breathable cotton blend fabric with adjustable drawstring hood, kangaroo pocket, and ribbed cuffs. Perfect for casual outings and everyday wear.",
+    "rating": 4.5,
+    "reviews": 128,
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "_id": 2,
+    "name": "Immortal Reflective T-shirt",
+    "image": "/products/m2.jpg",
+    "price": 700,
+    "gender": "men",
+    "description": "Stylish reflective t-shirt with unique design. Features premium reflective material that shines in low light conditions. Made from high-quality cotton blend for comfort and durability. Perfect for evening runs and night outings.",
+    "rating": 4.2,
+    "reviews": 95,
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "_id": 3,
+    "name": "Horizon Beige Baggy Jeans",
+    "image": "/products/m3.jpg",
+    "price": 2000,
+    "gender": "men",
+    "description": "Comfortable baggy jeans in neutral beige color. Made from premium quality denim with relaxed fit for maximum comfort. Features classic five-pocket design, adjustable waistband, and reinforced stitching for longevity.",
+    "rating": 4.7,
+    "reviews": 203,
+    "sizes": ["28", "30", "32", "34", "36"]
+  },
+  {
+    "_id": 4,
+    "name": "Black Ribbed Shirt",
+    "image": "/products/m4.jpg",
+    "price": 1500,
+    "gender": "men",
+    "description": "Classic black ribbed shirt with premium fabric and sophisticated texture. Versatile piece that can be dressed up or down. Features comfortable, stretchy fit, classic collar, and button-down front for a polished look.",
+    "rating": 4.3,
+    "reviews": 87,
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "_id": 5,
+    "name": "Horizon Blue Jeans",
+    "image": "/products/m5.jpg",
+    "price": 2900,
+    "gender": "men",
+    "description": "Premium blue jeans with horizon-inspired design. High-quality denim construction with perfect fit. Features reinforced stitching, classic five-pocket design, and adjustable waistband for the modern man.",
+    "rating": 4.6,
+    "reviews": 156,
+    "sizes": ["28", "30", "32", "34", "36"]
+  },
+  {
+    "_id": 6,
+    "name": "Cool Blue Baggy Jeans",
+    "image": "/products/m6.jpg",
+    "price": 1800,
+    "gender": "men",
+    "description": "Trendy blue baggy jeans for a cool, relaxed look. Made from premium denim fabric with comfortable fit and maximum freedom of movement. Features relaxed fit through hips and thighs with straight leg opening.",
+    "rating": 4.4,
+    "reviews": 112,
+    "sizes": ["28", "30", "32", "34", "36"]
+  },
+  {
+    "_id": 7,
+    "name": "Oversized Graphic Hoodie",
+    "image": "/products/w1.jpg",
+    "price": 2800,
+    "gender": "women",
+    "description": "Oversized hoodie with unique graphic design. Made from premium cotton blend fabric that provides warmth without being too heavy. Features spacious kangaroo pocket, adjustable drawstring hood, and ribbed cuffs and hem.",
+    "rating": 4.8,
+    "reviews": 234,
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "_id": 8,
+    "name": "Rugged Blue Jeans",
+    "image": "/products/w2.jpg",
+    "price": 1500,
+    "gender": "women",
+    "description": "Rugged blue jeans with perfect fit for the modern woman. Durable denim with stylish distressed look. Features subtle distressing details for an authentic look and classic five-pocket design.",
+    "rating": 4.1,
+    "reviews": 78,
+    "sizes": ["26", "28", "30", "32", "34"]
+  },
+  {
+    "_id": 9,
+    "name": "Elite Brown Crop Top",
+    "image": "/products/w3.jpg",
+    "price": 1000,
+    "gender": "women",
+    "description": "Elegant brown crop top with elite design. Made from premium soft, breathable fabric. The cropped length pairs perfectly with high-waisted jeans, skirts, or shorts for a trendy silhouette.",
+    "rating": 4.5,
+    "reviews": 145,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "_id": 10,
+    "name": "Boxy Fit T-Shirt",
+    "image": "/products/w4.jpg",
+    "price": 800,
+    "gender": "women",
+    "description": "Comfortable boxy fit t-shirt crafted from premium fabric. Versatile piece that can be dressed up or down. Made from high-quality cotton blend that is soft, breathable, and durable for everyday wear.",
+    "rating": 4.3,
+    "reviews": 92,
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "_id": 11,
+    "name": "Cypher Grey Baggy Pants",
+    "image": "/products/w5.jpg",
+    "price": 1000,
+    "gender": "women",
+    "description": "Stylish grey baggy pants with cypher design. Made from premium quality fabric that is soft and durable. Features elastic waistband for comfort, spacious pockets, and a flattering silhouette.",
+    "rating": 4.4,
+    "reviews": 118,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "_id": 12,
+    "name": "Cool Blue Baggy Jeans",
+    "image": "/products/w6.jpg",
+    "price": 1400,
+    "gender": "women",
+    "description": "Cool blue baggy jeans for relaxed style with feminine appeal. Made from premium denim that is soft yet durable. Features relaxed fit through hips and thighs with straight leg opening.",
+    "rating": 4.2,
+    "reviews": 85,
+    "sizes": ["26", "28", "30", "32", "34"]
+  }
+]
