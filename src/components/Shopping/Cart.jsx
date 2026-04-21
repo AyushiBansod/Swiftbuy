@@ -50,7 +50,7 @@ const Cart = () => {
                       src={item.image}
                       alt={item.name}
                       width="50"
-                      className="h-16 w-16 sm:h-12 sm:w-12 rounded-lg object-cover"
+                      className="h-32 w-24 sm:h-28 sm:w-20 rounded-lg object-cover"
                     />
                     <div className="flex-1 w-full text-center sm:text-left">
                       <h3 className="mb-1 text-sm font-bold text-white sm:text-base">
